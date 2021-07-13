@@ -1,12 +1,9 @@
-name: Code Quality
+name: flake8
 
-on:
-  push:
-    paths:
-      - "**.py"
+on: [push]
 
 jobs:
-  build:
+  lint:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
