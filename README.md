@@ -6,3 +6,5 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/codeclimate/codeclimate/test_coverage)
 ### GitHub Actions:
 ![flake8](https://github.com/PTyCCa/python-project-lvl1/actions/workflows/flake8.yml/badge.svg)
+### Asciinema:
+[![asciicast](https://asciinema.org/a/pO5l7nA0qNC44ai38JUcLT9d1.svg)](https://asciinema.org/a/pO5l7nA0qNC44ai38JUcLT9d1)
