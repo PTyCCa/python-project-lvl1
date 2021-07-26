@@ -7,4 +7,7 @@
 ### GitHub Actions:
 ![flake8](https://github.com/PTyCCa/python-project-lvl1/actions/workflows/flake8.yml/badge.svg)
 ### Asciinema:
+Brain Games Even gameplay:
 [![asciicast](https://asciinema.org/a/pO5l7nA0qNC44ai38JUcLT9d1.svg)](https://asciinema.org/a/pO5l7nA0qNC44ai38JUcLT9d1)
+Brain Games Calculator gameplay:
+[![asciicast](https://asciinema.org/a/leFTdlwIs78qRbPUFMM0h1siK.svg)](https://asciinema.org/a/leFTdlwIs78qRbPUFMM0h1siK)
