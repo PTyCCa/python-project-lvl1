@@ -1,3 +1,4 @@
+First traning Hexlet.io project on Python Software Developer course.
 ### Hexlet tests and linter status:
 ![Actions Status](/workflows/hexlet-check/badge.svg)
 ### Code Climat Maintainability:
@@ -11,3 +12,5 @@ Brain Games Even gameplay:
 [![asciicast](https://asciinema.org/a/pO5l7nA0qNC44ai38JUcLT9d1.svg)](https://asciinema.org/a/pO5l7nA0qNC44ai38JUcLT9d1)
 Brain Games Calculator gameplay:
 [![asciicast](https://asciinema.org/a/leFTdlwIs78qRbPUFMM0h1siK.svg)](https://asciinema.org/a/leFTdlwIs78qRbPUFMM0h1siK)
+Brain Games GCD gameplay:
+[![asciicast](https://asciinema.org/a/cvhIUF4WIYBtskn84UB5fIHhd.svg)](https://asciinema.org/a/cvhIUF4WIYBtskn84UB5fIHhd)
