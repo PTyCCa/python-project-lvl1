@@ -91,3 +91,25 @@ def operator_generator():
     }
 
     return random.choice(list(operations.keys()))
+
+
+def prog_generator():
+    """Create random arithmetic progression.
+
+    Returns:
+        (list): arithmetic progression
+    """
+    prog_len = random.randint(5, 10)
+    d_step = number_generator()
+    first_element = number_generator()
+    progression = [str(first_element)]
+
+    element_number = 2
+
+    while element_number <= prog_len:
+        progression.append(
+            str(first_element + (element_number - 1) * d_step),
+        )
+        element_number += 1
+
+    return progression
