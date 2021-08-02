@@ -1,4 +1,4 @@
-First traning <a href="https://hexlet.io/><b>Hexlet.io</b></a> project on Python Software Developer course.
+First traning <a href="https://hexlet.io/"><b>Hexlet.io</b></a> project on Python Software Developer course.
 ### Hexlet tests and linter status:
 ![Actions Status](/workflows/hexlet-check/badge.svg)
 ### Code Climat Maintainability:
