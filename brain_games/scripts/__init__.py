@@ -1,1 +1,1 @@
-"""Initialize class variables."""
+"""Initialize starting scripts."""
