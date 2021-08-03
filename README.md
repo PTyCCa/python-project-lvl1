@@ -1,3 +1,4 @@
+<head>
 <p>First traning <a href="https://hexlet.io/"><b>Hexlet.io</b></a> project on <a href="https://ru.hexlet.io/programs/python"><em>Python Software Developer</em></a> course.</p>
 <p>This package contains five mathematic quiz games:
     <ul>
@@ -8,6 +9,7 @@
         <li>Prime number check</li>
     </ul>
 </p>
+</head>
 ### Hexlet tests and linter status:
 ![Actions Status](/workflows/hexlet-check/badge.svg)
 ### Code Climat Maintainability:
