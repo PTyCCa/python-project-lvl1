@@ -1,6 +1,6 @@
-<head>
-<p>First traning <a href="https://hexlet.io/"><b>Hexlet.io</b></a> project on <a href="https://ru.hexlet.io/programs/python"><em>Python Software Developer</em></a> course.</p>
-<p>This package contains five mathematic quiz games:
+First traning <a href="https://hexlet.io/"><b>Hexlet.io</b></a> project on <a href="https://ru.hexlet.io/programs/python"><em>Python Software Developer</em></a> course.
+
+This package contains five mathematic quiz games:
     <ul>
         <li>Even number check</li>
         <li>Calculator</li>
@@ -8,8 +8,7 @@
         <li>Arithmetic progression</li>
         <li>Prime number check</li>
     </ul>
-</p>
-</head>
+
 ### Hexlet tests and linter status:
 ![Actions Status](/workflows/hexlet-check/badge.svg)
 ### Code Climat Maintainability:
